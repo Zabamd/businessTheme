@@ -1,28 +1,24 @@
 {
   "$schema": "https://schemas.wp.org/trunk/theme.json",
   "version": 2,
+  "title": "Another",
   "settings": {
     "color": {
       "palette": [
         {
-          "name": "Cornsilk",
+          "name": "prim",
           "slug": "primary",
-          "color": "#FEFAE0"
+          "color": "#FEFAEA"
         },
         {
-          "name": "Papaya Whip",
+          "name": "Pale Spring Bud",
           "slug": "secondary",
-          "color": "#FAEDCD"
+          "color": "#E9EDC9"
         },
         {
-          "name": "Fawn",
+          "name": "Pale Spring Bud Light",
           "slug": "tertiary",
-          "color": "#D4A373"
-        },
-        {
-          "name": "Complementary",
-          "slug": "com",
-          "color": "#e0e4fe"
+          "color": "#CCD5AE"
         }
       ]
     }
