@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "autopush": "git add . \ngit commit -m 'autopush' \ngit push https://github.com/Zabamd/businessTheme",
+    "autopush": "git add . \ngit commit -m 'autoupdate' \ngit push https://github.com/Zabamd/businessTheme",
     "push": "git push https://github.com/Zabamd/businessTheme",
     "clean": "prettier * --write"
   }
